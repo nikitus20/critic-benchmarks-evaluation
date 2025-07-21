@@ -69,4 +69,14 @@ config.ini
 
 # Claude-specific
 Claude.md
-EOF < /dev/null
+CLAUDE.md
+
+# Analysis outputs and generated content
+analysis/
+paper/
+run_analysis.py
+visualizations/
+CODEBASE_SUMMARY.md
+
+# PNG files (generated visualizations)
+*.png
